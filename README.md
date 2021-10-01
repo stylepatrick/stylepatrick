@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm stylepatrick</h1>
-<h3 align="left">A passionate Full Stack Developer from Italy. Dealing with Smart-Home and Blockchain technologies in my free time.</h3>
+<h3 align="left">A passionate Full Stack Developer from Italy. Dealing with Smart-Home and Blockchain technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stylepatrick&label=Profile%20views&color=0e75b6&style=flat" alt="stylepatrick" /> </p>
 
