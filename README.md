@@ -7,7 +7,7 @@
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patrick oberkofler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-oberkofler-b30895114" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/patrick-oberkofler-b30895114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-oberkofler-b30895114" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Favourite languages and tools:</h3>
