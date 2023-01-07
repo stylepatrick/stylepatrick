@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm stylepatrick</h1>
-<h3 align="left">Passionate full-stack developer from Italy. Software engineer by profession and besides my work I am involved in smart home, blockchain technology and open source.</h3>
+<h3 align="left">Passionate front- and backend developer with focus on Java (Spring Boot) and Typescript (Angular). Professional Software engineer. Outside of my work, I deal with machine/deep learning, AI, smart home and blockchain technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stylepatrick&label=Profile%20views&color=0e75b6&style=flat" alt="stylepatrick" /> </p>
 
