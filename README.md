@@ -3,10 +3,10 @@
 
 ## 💫 About Me
 🚀Passionate Full-stack developer (Java/Spring Boot, TypeScript/Angular).
-<br>💼Leading projects with vision and excellence.
-<br>💻Professional Software Engineer with a passion for clean, efficient code.
-<br>🌟Beyond work, I deal in addition with machine/deep learning, AI, smart home and blockchain technologies.
-<br>🌐 Enthusiastic about the power of open source collaboration.
+<br><br>💼Leading projects with vision and excellence.
+<br><br>💻Professional Software Engineer with a passion for clean, efficient code.
+<br><br>🌟Beyond work, I deal in addition with machine/deep learning, AI, smart home and blockchain technologies.
+<br><br>🌐 Enthusiastic about the power of open source collaboration.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stylepatrick&label=Profile%20views&color=0e75b6&style=flat" alt="stylepatrick" /> </p>
 
 ## 🔗 Socials
